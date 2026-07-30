@@ -1,10 +1,9 @@
 # Testing-bruh
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-<h1 align="center">𓆩𝖙𝖍𝖊 𝖇𝖆𝖙𝖒𝖆𝖓 𝖇𝖊𝖞𝖔𝖓𝖉 𝖔𝖋 𝖕𝖔𝖓𝖞𝖙𝖔𝖜𝖓𓆪</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/93b90dc2-77d2-435e-a7a2-99e5555486d9">
+  <img src="https://github.com/user-attachments/assets/93b90dc2-77d2-435e-a7a2-99e5555486d9" width="1992">
+</picture>
+
 <h6 align="center"> <a href=https://github.com/pt-hall-of-media> @pt-hall-of-media </a> </h6>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/fde317b8-0ec4-4c0f-b08a-e26b5849551b">
