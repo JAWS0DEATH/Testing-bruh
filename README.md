@@ -1,8 +1,8 @@
 # Testing-bruh
 
 <p>Hey guys what is shaking</p>
-<img width="1992" height="532" style="background-color:transparent" alt="Untitled252_20260729212108" src="https://github.com/user-attachments/assets/fde317b8-0ec4-4c0f-b08a-e26b5849551b" />
-
+<img width="1992" height="532"  alt="Untitled252_20260729212108" src="https://github.com/user-attachments/assets/fde317b8-0ec4-4c0f-b08a-e26b5849551b" style="background-color:transparent;" />
+ 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=4bsisk3b9ipx3m87tsn4edpan&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ee8787&interchange=true&profanity=false&hide_remaster=false&bar_color=990f1d&bar_color_cover=false">
