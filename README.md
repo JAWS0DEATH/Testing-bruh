@@ -1,4 +1,6 @@
 # Testing-bruh
+<img width="1241" height="957" alt="Untitled253_20260729212358" src="https://github.com/user-attachments/assets/fdc2bd9c-1cef-4622-b810-b9dff6255f86" />
+
 <p>Hey guys what is shaking</p>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
