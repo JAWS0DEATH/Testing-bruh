@@ -1,6 +1,10 @@
 # Testing-bruh
 
 <p>Hey guys what is shaking</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/fde317b8-0ec4-4c0f-b08a-e26b5849551b">
+  <img src="light-mode-transparent.png" width="200">
+</picture>
 <img width="1992" height="532"  alt="Untitled252_20260729212108" src="https://github.com/user-attachments/assets/fde317b8-0ec4-4c0f-b08a-e26b5849551b" style="background-color transparent" />
  
 <p align="center">
